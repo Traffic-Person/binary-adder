@@ -1,2 +1,2 @@
-July 30:
+# July 30:
 Start of Binary adder
