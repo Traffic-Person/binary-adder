@@ -22,3 +22,25 @@ And i added a 10 kilo ohm resistor to every button and that goes to ground becau
 [The Timelapse](https://lapse.hackclub.com/timelapse/Thh0iD-BY0wq)
 
 **Total time spent: 46 minutes**
+
+# June 31: Logic
+
+I made the logic inside of minecraft to simulate it and it worked great so i transported it into my schematic
+
+it works on a basis of 2 gates: XOR and AND basically it takes 2 inputs puts them through a XOR together and a AND together (in parallel)
+
+The AND output is the Carry and the XOR output is the Sum (what gets printed)
+
+The basic formula: A B -> XOR -> (A XOR B) XOR Carry -> Sum
+
+The Minecraft Adder:
+
+<img width="971" height="503" alt="Screenshot 2026-07-31 140710" src="https://github.com/user-attachments/assets/3c9927f4-9ff8-4ca1-ba34-4b72a4fd8bdc" />
+
+The Reworked Schematic:
+
+<img width="542" height="712" alt="Screenshot 2026-07-31 144446" src="https://github.com/user-attachments/assets/f8ffe7ca-db57-4286-8d25-ff46040889da" />
+
+[Timelapse](https://lapse.hackclub.com/timelapse/kfTMp7sw0622)
+
+**Total time spent: 2 hours 17 minutes**
