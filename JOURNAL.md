@@ -35,6 +35,8 @@ The full adder formula: A B -> XOR -> (A XOR B) XOR Carry -> Sum
 
 It uses half adders and full adders
 
+I have also routed the pcb
+
 The Minecraft Adder:
 
 <img width="971" height="503" alt="Screenshot 2026-07-31 140710" src="https://github.com/user-attachments/assets/3c9927f4-9ff8-4ca1-ba34-4b72a4fd8bdc" />
@@ -43,6 +45,11 @@ The Reworked Schematic:
 
 <img width="542" height="712" alt="Screenshot 2026-07-31 144446" src="https://github.com/user-attachments/assets/f8ffe7ca-db57-4286-8d25-ff46040889da" />
 
-[Timelapse](https://lapse.hackclub.com/timelapse/kfTMp7sw0622)
+The pcb:
 
-**Total time spent: 2 hours 17 minutes**
+<img width="1282" height="536" alt="Screenshot 2026-07-31 181507" src="https://github.com/user-attachments/assets/728ee33a-91a2-447b-8405-4341aabadd0b" />
+
+[Timelapse](https://lapse.hackclub.com/timelapse/kfTMp7sw0622)
+[second timelapse](https://lapse.hackclub.com/timelapse/zCNVK4dlRbu3)
+
+**Total time spent: 3 hours 6 minutes**
