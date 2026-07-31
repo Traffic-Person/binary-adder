@@ -31,7 +31,9 @@ it works on a basis of 2 gates: XOR and AND basically it takes 2 inputs puts the
 
 The AND output is the Carry and the XOR output is the Sum (what gets printed)
 
-The basic formula: A B -> XOR -> (A XOR B) XOR Carry -> Sum
+The full adder formula: A B -> XOR -> (A XOR B) XOR Carry -> Sum
+
+It uses half adders and full adders
 
 The Minecraft Adder:
 
