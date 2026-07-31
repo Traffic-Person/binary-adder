@@ -15,6 +15,8 @@ I tried to make a reset button with a NOT gate but i realised that was kinda lik
 
 I also learned about binary addition and it took me a bit to grasp but i think i understand the carry thing now
 
+And i added a 10 kilo ohm resistor to every button and that goes to ground because the internet said if it wont have that it will be a floating input (randomly 0 or 1 from what i understood)
+
 <img width="603" height="787" alt="Screenshot 2026-07-30 225113" src="https://github.com/user-attachments/assets/ba1165da-166b-476d-89f0-d86e459e0df0" />
 
 [The Timelapse](https://lapse.hackclub.com/timelapse/Thh0iD-BY0wq)
